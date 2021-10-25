@@ -1,7 +1,5 @@
 This is an express app where a user can check in or check out a book and add a book title and author. It is used to keep track of available books in the library.
 
-Link to Project: [https://juliedodev-library.netlify.app/]
-
 <img src="library.png">
 
 How It's Made:
